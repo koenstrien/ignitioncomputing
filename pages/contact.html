@@ -11,38 +11,61 @@ title: Contact Ignition Computing
                 <div class="contact-person">
                     <h4>Video call.</h4>
                     <p>Let's plan a time.</p>
-                    <a href="mailto:info@ignitioncomputing.com" class=""><i class="far fa-calendar-alt"></i>Mon - Fri 9:00 am - 5:00 PM</a>
+                    <a href="mailto:{{site.email}}" class=""><i class="far fa-calendar-alt"></i>Mon - Fri 9:00 am - 5:00 PM</a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Phone us.</h4>
                     <p>Available during working hours (CET/CEST).</p>
-                    <a href="#" class=""><i class="fas fa-phone"></i>(+31) 6 5202 8891</a>
+                    <a href="#" class=""><i class="fas fa-phone"></i>{{site.phone}}</a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4 text-center text-md-left mb-30">
                 <div class="contact-person">
                     <h4>Drop a line</h4>
                     <p>Email always works.</p>
-                    <a href="mailto:info@ignitioncomputing.com" class=""><i class="far fa-envelope"></i>info@ignitioncomputing.com</a>
+                    <a href="mailto:{{site.email}}" class=""><i class="far fa-envelope"></i>{{site.email}}</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
+
 <!-- contact-maps -->
 <div class="maps-area">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="maps">
-                    <a href="#"><img src="/assets/img/map.png" class="img-fluid" alt=""></a>
+                <div class="maps" id="map">
                 </div>
             </div>
         </div>
     </div>
 </div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+crossorigin=""></script>
+<script type="text/javascript">
+    var mymap = L.map('map').setView([{{site.lat}},{{site.lon}}], {{site.zoom}});
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1,
+    accessToken: 'pk.eyJ1IjoiZXh0ZXJpcyIsImEiOiJja2ZueHcybWMwZmQ4MnlvZW1taXl3MDV3In0.3lOZ7rMyWgALcdfnkEtQcQ'
+}).addTo(mymap);
+    var marker = L.marker([{{site.lat}},{{site.lon}}]).addTo(mymap);
+</script>
+
+
 <!-- contact-form -->
 <section class="contact-form pb-100 pt-100">
     <div class="container">
@@ -56,7 +79,7 @@ title: Contact Ignition Computing
         </div>
         <div class="row">
             <div class="col-md-8 offset-md-2">
-                <form id="contact-form" action="https://formspree.io/info@ignitioncomputing.com" class="contact-form" method="POST">
+                <form id="contact-form" action="https://formspree.io/{{site.email}}" class="contact-form" method="POST">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 mb-20">
                             <input name="name" type="text" placeholder="Name">

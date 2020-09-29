@@ -1,5 +1,5 @@
 title: "Ignition Computing"
-email: "dvanvugt@ignitioncomputing.com"
+email: "info@ignitioncomputing.com"
 description: >- # this means to ignore newlines until "baseurl:"
  Ignition Computing helps you build unique software
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,6 +27,11 @@ plugins:
   - jekyll-archives
 
 cover_image: "/assets/img/bg/page-title.jpg"
+phone: +31 6 5202 8891
+address: Lichtstraat 1, Eindhoven, NL
+lat: 51.43877
+lon: 5.472555
+zoom: 5
 
 
 #collections
