@@ -26,7 +26,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-cover_image: "/assets/img/bg/page-title.jpg"
+cover_image: "/assets/img/slider/slider1.jpg"
 phone: +31 6 5202 8891
 address: Lichtstraat 1, Eindhoven, NL
 lat: 51.43877
