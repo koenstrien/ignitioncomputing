@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Faster More  Then Speed
+title: Performance optimization
 icon: /assets/img/icons/algolia-brands.svg
 image: /assets/img/services/02.jpg
-description: Condimentum consectetur quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+description: We have strong experience improving code performance, in both business and high-performance computing contexts.
 ---
 
 <div class="row">
