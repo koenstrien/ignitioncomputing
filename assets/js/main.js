@@ -208,24 +208,26 @@
     loop: true,
     nav: false,
     autoplay: true,
+    autoWidth: true,
+    margin: 40,
     responsive: {
       0: {
-        items: 2
+        items: 1
       },
       320: {
-        items: 2
+        items: 1
       },
       480: {
-        items: 3
+        items: 2
       },
       767: {
-        items: 5
+        items: 2
       },
       991: {
-        items: 6
+        items: 3
       },
       1000: {
-        items: 6
+        items: 3
       }
     }
   });
@@ -239,9 +241,9 @@
     animationOutSpeed: 1000, // Animation out speed (ms)
     scrollText: '<span class="lnr lnr-chevron-up"></span>' // Text for element
   });
-  
+
   if($("#search-input").length >0){
-    
+
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('results-container'),
