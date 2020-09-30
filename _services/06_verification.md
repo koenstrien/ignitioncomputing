@@ -1,15 +1,15 @@
 ---
 layout: featured
-title: Performance optimization
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/services/02.jpg
-description: We have strong experience improving code performance, in both business and high-performance computing contexts.
+title: Verification &amp; Validation
+icon: /assets/img/icons/address-card-solid.svg
+image: /assets/img/service/3.jpg
+description: Code verification and model validation are essential to obtain correct results. We have extensive experience with test-driven development and testing existing codes.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
+            <h3>Dedicated support quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +21,7 @@ description: We have strong experience improving code performance, in both busin
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/5.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

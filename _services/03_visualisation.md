@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Highly customizable
+title: Visualisation
 icon: /assets/img/icons/air-freshener-solid.svg
-image: /assets/img/services/03.jpg
-description: Highly customizable parturient denouncing pleasure and praising pain was born and I will give you a complete.
+image: /assets/img/service/6.jpg
+description: Good visualisation is a super-power in science. It aids discovery and communication of ideas immensely.
 ---
 
 <div class="row">
