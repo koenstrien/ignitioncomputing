@@ -5,7 +5,7 @@
 - text: About
   url: /pages/about
 - text: Services
-  url: '#services'
+  url: '/#services'
 #- text: Portfolio
 #  url: /pages/portfolio
 - text: Contact
