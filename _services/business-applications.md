@@ -1,9 +1,9 @@
 ---
 layout: featured
-title: Visualisation
-icon: /assets/img/icons/air-freshener-solid.svg
-image: /assets/img/service/6.jpg
-description: Good visualisation is a super-power in science. It aids discovery and communication of ideas immensely.
+title: Business applications
+icon: /assets/img/icons/git-pull-request-outline.svg
+image: /assets/img/service/1.jpg
+description: Software is at the heart of modern business. We know how to build it.
 ---
 
 <div class="row">
@@ -21,7 +21,7 @@ description: Good visualisation is a super-power in science. It aids discovery a
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/4.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/2.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="stopwatch-outline.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="2144"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="1.6171875"
+     inkscape:cx="109.75845"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <title
+     id="title22">ionicons-v5-g</title>
+  <line
+     x1="256"
+     y1="232"
+     x2="256"
+     y2="152"
+     style="fill:none;stroke:#ff5e14;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;stroke-opacity:1"
+     id="line24" />
+  <line
+     x1="256"
+     y1="88"
+     x2="256"
+     y2="72"
+     style="fill:none;stroke:#ff5e14;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px;stroke-opacity:1"
+     id="line26" />
+  <line
+     x1="132"
+     y1="132"
+     x2="120"
+     y2="120"
+     style="fill:none;stroke:#ff5e14;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px;stroke-opacity:1"
+     id="line28" />
+  <circle
+     cx="256"
+     cy="272"
+     r="32"
+     style="fill:none;stroke:#ff5e14;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="circle30" />
+  <path
+     d="M256,96A176,176,0,1,0,432,272,176,176,0,0,0,256,96Z"
+     style="fill:none;stroke:#ff5e14;stroke-miterlimit:10;stroke-width:32px;stroke-opacity:1"
+     id="path32" />
+</svg>

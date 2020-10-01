@@ -1,15 +1,15 @@
 ---
 layout: featured
-title: Scientific Software
-image: /assets/img/service/4.jpg
-icon: /assets/img/icons/layer-group-solid.svg
-description: Scientific software is our specialty. We have extensive experience writing simulation codes, analysis tools and workflows.
+title: Verification &amp; Validation
+icon: /assets/img/icons/ruler.svg
+image: /assets/img/service/3.jpg
+description: Code verification and model validation are essential to obtain correct results. We have extensive experience with test-driven development and testing existing codes.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
+            <h3>Dedicated support quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +21,7 @@ description: Scientific software is our specialty. We have extensive experience 
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
+            <img src="{{site.baseurl}}/assets/img/service/5.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

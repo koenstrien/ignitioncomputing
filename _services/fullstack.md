@@ -1,15 +1,15 @@
 ---
 layout: featured
-title: Performance optimization
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/service/5.jpg
-description: High performance is essential. We have extensive optimalisation and parallelisation experience in HPC and business contexts.
+title: Full-stack development
+icon: /assets/img/icons/code-working-outline.svg
+image: /assets/img/service/2.jpg
+description: We can build complex (web)applications and mobile apps.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
+            <h3>Dedicated support quaerat parturient denouncing</h3>
             <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
                 dolore mage aliquami erat volpate Ut wisi
                 enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
@@ -21,7 +21,7 @@ description: High performance is essential. We have extensive optimalisation and
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/1.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/3.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">
