@@ -9,12 +9,11 @@ description: High performance is essential. We have extensive optimalisation and
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Condimentum consectetur quaerat parturient denouncing</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>Optimize your results</h3>
+            <p>Poor performance leads to user efficiency losses and limits your options.
+	    It can often be directly linked to reduced returns and increased costs.
+	    Improving the performance of key parts of your application could bring enormous benefits.
+	    </p>
         </div>
     </div>
 </div>
@@ -26,22 +25,18 @@ description: High performance is essential. We have extensive optimalisation and
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>Methodology</h3>
+            <p>We follow the scientific method in our approach to performance.
+	    Accurate measurements are paramount, as well as comprehensive regression tests and clear targets.
+	    Only then is it safe to start to improve the performance of parts of the program.</p>
+	    <p>
+	    We have extensive experience measuring and improving performance of (distributed) applications, on everything from laptops to HPC hardware.
+	    </p>
         </div>
     </div>
 </div>
 <div class="service-details mb-30">
-    <h3>Your Succes Will be Done</h3>
-    <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-        aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatu cepteusint occaecat
-        cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim laborum. Curatur pretium tincidunt lacus. Nulla gravida
-        orci a odio. Nullam varius, turpis et
-        commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
-        Integer in mauris nibh euismod gravida.
-        Duis ac tellus et risus vulputate vehicula.</p>
+    <h3>Let us boost your performance</h3>
+    <p>Would you like a boost? Get in touch!</p>
+    {% include call_to_action_mini.html %}
 </div>

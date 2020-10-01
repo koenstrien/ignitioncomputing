@@ -9,12 +9,12 @@ description: Scientific software is our specialty. We have extensive experience 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Business Analysis</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>Scientific software is our specialty</h3>
+            <p>Our team holds PhDs in computational physics, who have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
+	    </p>
+	    <p>
+	    We are available to help you improve your research and scientific software.
+	    </p>
         </div>
     </div>
 </div>
@@ -26,22 +26,13 @@ description: Scientific software is our specialty. We have extensive experience 
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>Open-source philosophy</h3>
+            <p>We believe in the power of open source software, having benefitted immensely from it in the past. It is now our turn to contribute, and unless business reasons prevent it we always release our tools and updates back to the community.</p>
         </div>
     </div>
 </div>
 <div class="service-details mb-30">
-    <h3>Your Succes Will be Done</h3>
-    <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-        aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatu cepteusint occaecat
-        cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim laborum. Curatur pretium tincidunt lacus. Nulla gravida
-        orci a odio. Nullam varius, turpis et
-        commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
-        Integer in mauris nibh euismod gravida.
-        Duis ac tellus et risus vulputate vehicula.</p>
+    <h3>Let us help you</h3>
+    <p>Do you think we might be able to help you? Get in touch!</p>
+    {% include call_to_action_mini.html %}
 </div>

@@ -72,12 +72,12 @@
      style="fill:none;stroke:#ff5e14;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;stroke-opacity:1"
      id="rect8" />
   <rect
-     x="383.64"
-     y="112"
-     width="80"
-     height="304"
-     rx="20"
-     ry="20"
-     style="fill:none;stroke:#ff5e14;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px;stroke-opacity:1"
+     x="383.64005"
+     y="112.00005"
+     width="79.999916"
+     height="303.99991"
+     rx="19.999979"
+     ry="19.999994"
+     style="fill:none;stroke:#ff5e14;stroke-width:32.0001px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
      id="rect10" />
 </svg>

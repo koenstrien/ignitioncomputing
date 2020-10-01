@@ -1,6 +1,6 @@
 ---
 layout: featured
-title: Business applications
+title: Enterprise applications
 icon: /assets/img/icons/git-pull-request-outline.svg
 image: /assets/img/service/1.jpg
 description: Software is at the heart of modern business. We know how to build it.
@@ -9,12 +9,13 @@ description: Software is at the heart of modern business. We know how to build i
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Dedicated support quaerat parturient denouncing</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet
-                dolore mage aliquami erat volpate Ut wisi
-                enim ad minim veniam, quis nostrud exerci tation corper cipit lobortis nisl ut
-                aliquip ex ea comcon sequat. Duis autem velue
-                eum iriure dolor in hendrerit in vulputate velitesse consequat .</p>
+            <h3>We can help you grow your business</h3>
+	    <p>
+                Our team has extensive experience writing, improving and maintaining line-of-business software in the education, retail and research markets.
+		We can help you design graphical user interfaces, integrate with back-end systems over standard or custom network protocols and deploy your applications to local hardware or cloud providers.
+		Our team always has an eye for data safety, privacy protection and GDPR compliance.
+		We strive to deliver 100% tested code and include testing and training phases in our projects.
+            </p>
         </div>
     </div>
 </div>
@@ -26,22 +27,9 @@ description: Software is at the heart of modern business. We know how to build i
     </div>
     <div class="col-xl-6 col-lg-12">
         <div class="service-details mb-40">
-            <h3>Awesome Teamwork Attention</h3>
-            <p>Consectetuer adipiscing elit, sed diam nonumy nibh euismod tincidunt ut laoreet dolore mage aliquami erat volpate Ut
-            wisi enim ad minim veniam, quis nos trud exerci tation corper cipit lobortis nisl ut aliq uip ex ea comcon sequat. Duis
-            autem velue eum iriure dolor in hendrerit in vulputate velitesse conse quat Ut wisi enim ad minim veniam.</p>
+            <h3>Let's talk</h3>
+            <p>Do you have a problem we could help solve? Let's get in touch to see if we could help you.</p>
+{% include call_to_action_mini.html %}
         </div>
     </div>
-</div>
-<div class="service-details mb-30">
-    <h3>Your Succes Will be Done</h3>
-    <p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-        aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatu cepteusint occaecat
-        cupidatat non proident, sunt in culpa qui
-        officia deserunt mollit anim laborum. Curatur pretium tincidunt lacus. Nulla gravida
-        orci a odio. Nullam varius, turpis et
-        commodo pharetra est eros bibendum elit nec luctus magna felis sollicitudin mauris.
-        Integer in mauris nibh euismod gravida.
-        Duis ac tellus et risus vulputate vehicula.</p>
 </div>
