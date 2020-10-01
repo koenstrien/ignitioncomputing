@@ -1,4 +1,16 @@
 <div class="widget">
+    <h4 class="widget-title">Services</h4>
+    <div class="sidebar-rc-post">
+        <ul>
+            {% for service in site.services %}
+            <li>
+                <a class="text-capitalize" href="{{service.url}}">{{service.title}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<div class="widget">
     <h4 class="widget-title">Recent Posts</h4>
     <div class="sidebar-rc-post">
         <ul>
