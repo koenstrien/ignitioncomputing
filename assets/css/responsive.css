@@ -79,7 +79,7 @@ blockquote {
 .slider-bg {
 	height: 600px;
 }
-.about-img img {
+.about-img picture, .about-img img {
 	width: 100%;
 }
 blockquote::before {
