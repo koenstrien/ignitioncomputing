@@ -3,10 +3,10 @@
 - text: Home
   url: /
 - text: About
-  url: /pages/about
+  url: /about
 - text: Services
   url: '/#services'
-#- text: Portfolio
-#  url: /pages/portfolio
+- text: News
+  url: /news
 - text: Contact
-  url: /pages/contact
+  url: /contact
