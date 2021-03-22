@@ -1,0 +1,22 @@
+<picture>
+  {% if include.webp %}
+    <source
+      type="image/webp"
+      srcset="{{ include.file}}.webp">
+  {% endif %}
+  {% if include.jpg %}
+    <source
+      type="image/jpeg"
+      srcset="{{ include.file}}.jpg">
+  {% endif %}
+  {% if include.png %}
+    <source
+      type="image/png"
+      srcset="{{ include.file}}.png">
+  {% endif %}
+  {% if include.jpg %}
+    <img src="{{ include.file}}.jpg" alt="{{ include.alt }}">
+  {% elsif include.png %}
+    <img src="{{ include.file}}.png" alt="{{ include.alt }}">
+  {% endif %}
+</picture>

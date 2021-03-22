@@ -1,0 +1,27 @@
+-
+  title: dr.ir.
+  name: D.C. van Vugt
+  role: Founder & Director
+  email: dvanvugt@ignitioncomputing.com
+  linkedin: https://linkedin.com/in/daanv
+  bio: Experienced developer with multiple years of experience building high-performance computing codes for physics, as well as full-stack web development in several languages. PhD in nuclear fusion, Master's Degree in Applied Physics from Eindhoven University of Technology.
+  image_base: /assets/img/team/daan
+-
+  title:
+  name: R. Hassonov
+  role: Software Engineer
+  linkedin: https://linkedin.com/in/ruslan-hassonov-88bbb087
+  image_base: /assets/img/team/unknown
+-
+  title:
+  name: B. Nader
+  role: Business Analyst
+  linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
+  image_base: /assets/img/team/brishna
+-
+  title:
+  name: K. Strien
+  role: Research Associate
+  url: https://koenstrien.nl
+  linkedin: http://linkedin.com/in/koenstrien
+  image_base: /assets/img/team/koen
