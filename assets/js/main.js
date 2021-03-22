@@ -209,25 +209,25 @@
     nav: false,
     autoplay: true,
     autoWidth: true,
+    mouseDrag: true,
+    touchDrag: true,
     margin: 40,
     responsive: {
       0: {
-        items: 1
-      },
-      320: {
-        items: 1
+        items: 1,
+        nav: true,
       },
       480: {
-        items: 2
-      },
-      767: {
-        items: 2
+        items: 2,
+        nav: true,
       },
       991: {
-        items: 3
+        items: 3,
+        nav: false,
       },
       1000: {
-        items: 3
+        items: 7,
+        nav: false,
       }
     }
   });
