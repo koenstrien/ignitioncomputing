@@ -1,0 +1,50 @@
+<section class="service-area pt-100 pb-50">
+  <div class="container">
+      <div class="row">
+        {% for post in site.posts %}
+              <div class="col-md-6 mb-50 ">
+                  <div class="services-box">
+                      {% if post.image %}
+                      <a href="{{post.url}}">
+                          <div class="services-img">
+                              <img src="{{post.image}}" class="img-fluid" alt="{{post.title}}">
+                          </div>
+                      </a>
+                      {% endif %}
+                      <div class="services-content">
+                          <div class="card-title">
+                              <h2 class="blog-title"><a href="{{post.url}}">{{post.title}}</a></h2>
+                          </div>
+                          <div class="card-text">
+                              <p>{{post.excerpt | strip_html | truncatewords:"30"}}</p>
+                          </div>
+                          <a href="{{post.url}}" class="btn float-left">Read More</a>
+                          <div class="text-right">
+                              {{post.date | date_to_long_string}}
+                          </div>
+                      </div>
+                  </div>
+              </div>
+        {% endfor %}
+      </div>
+  </div>
+</section>
+<!-- services-cta -->
+<section class="services-cta grey-bg pt-50 pb-20">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-md-9 mb-30">
+              <div class="call-to-action">
+                  <h3>Do you want to make news with us?</h3>
+                  <p>Let's see if we can build something amazing together.</p>
+              </div>
+          </div>
+          <div class="col-md-3 mb-30">
+              <div class="call-to-action">
+                  <a href="/contact" class="btn">get in touch</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+<!-- counter-area -->
