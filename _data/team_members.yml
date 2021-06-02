@@ -20,7 +20,20 @@
   image_base: /assets/img/team/brishna
 -
   title:
-  name: K. Strien
+  name: J. Slief BSc
+  role: Software Engineer
+  linkedin: http://www.linkedin.com/in/jelle-slief-30b039150
+  image_base: /assets/img/team/jelle
+-
+  title:
+  name: M. Sanders BSc
+  role: Software Engineer
+  url: mailto:msanders@ignitioncomputing.com
+  email: msanders@ignitioncomputing.com
+  image_base: /assets/img/team/mike
+-
+  title:
+  name: K. Strien BSc
   role: Research Associate
   url: https://koenstrien.nl
   linkedin: http://linkedin.com/in/koenstrien
