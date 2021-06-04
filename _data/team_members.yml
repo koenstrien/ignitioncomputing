@@ -14,6 +14,13 @@
   image_base: /assets/img/team/ruslan
 -
   title:
+  name: ir. M. Sanders
+  role: Software Engineer
+  url: mailto:msanders@ignitioncomputing.com
+  email: msanders@ignitioncomputing.com
+  image_base: /assets/img/team/mike
+-
+  title:
   name: B. Nader
   role: Business Analyst
   linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
@@ -24,13 +31,6 @@
   role: Software Engineer
   linkedin: http://www.linkedin.com/in/jelle-slief-30b039150
   image_base: /assets/img/team/jelle
--
-  title:
-  name: M. Sanders BSc
-  role: Software Engineer
-  url: mailto:msanders@ignitioncomputing.com
-  email: msanders@ignitioncomputing.com
-  image_base: /assets/img/team/mike
 -
   title:
   name: K. Strien BSc
