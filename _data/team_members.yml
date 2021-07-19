@@ -21,16 +21,16 @@
   image_base: /assets/img/team/mike
 -
   title:
+  name: ir. J. Slief
+  role: Software Engineer
+  linkedin: http://www.linkedin.com/in/jelle-slief-30b039150
+  image_base: /assets/img/team/jelle
+-
+  title:
   name: B. Nader
   role: Business Analyst
   linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
   image_base: /assets/img/team/brishna
--
-  title:
-  name: J. Slief BSc
-  role: Software Engineer
-  linkedin: http://www.linkedin.com/in/jelle-slief-30b039150
-  image_base: /assets/img/team/jelle
 -
   title:
   name: K. Strien BSc
