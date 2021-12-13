@@ -11,7 +11,7 @@ The international organization ITER is building the largest tokamak in the world
 
 For this purpose ITER Organization and its partners are developing the Integrated Modeling and Analysis System (IMAS). In this system all relevant information can be stored and retrieved by researchers within and outside the organization. IMAS is built on the concept of a common Data Dictionary (DD), which stores information about the machine in a structured format, to enable interoperability between software tools. These DDs are complex, with tens of thousands of quantities that can be filled in with time and/or location-dependent data.
 
-![IMASPy layer structure](/assets/img/news/imaspy.png)
+<img src="/assets/img/news/imaspy.png" style="max-width: 100%;" alt="IMASPy Layer Structure">
 
 The IMAS infrastructure consists of a low-level layer, which can use several backends, and for which interfaces exist in Fortran, C++, Matlab, Java and Python. These interfaces are statically generated from the IMAS-DD definitions. A dynamic interpretation of the IMAS-DD definitions would improve the user experience and allow for faster development.
 Together with DIFFER, Ignition Computing has developed a dynamic interface to IMAS in Python. This is based on an early proof-of-concept by the DIFFER researcher Karel van de Plassche. ITER Organization recognized the potential of the new approach, and has worked  with Karel at DIFFER and Daan van Vugt at Ignition Computing to improve the dynamic Python interface.
