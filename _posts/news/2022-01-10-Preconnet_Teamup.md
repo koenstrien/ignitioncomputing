@@ -11,8 +11,8 @@ In physics simulation with implicit time-stepping schemes, typically a problem m
 
 Choosing a useful preconditioner is one of the arts of simulation engineering. It depends on the code, the simulated problem and several other parameters. Many of the preconditioners used now are generated with standard mathematical tools and are not specialised to a single simulation code or even to a specific simulated problem.
 
- An improvement can be made by generating preconditioners based on the stored results of earlier simulation timesteps. Our viability study resulted in a working proof-of-principle and strong indications of scaling and applicability.
+An improvement can be made by generating preconditioners based on the stored results of earlier simulation timesteps. Our viability study resulted in a working proof-of-principle and strong indications of scaling and applicability.
 
 This is why we’re happy to be moving to the Proof of Concept phase, which we will build together with Plasma Matters, the developers of the PLASIMO software that is used in several high-tech industries.
 
-This project is supported by a grant from Dutch government entity RVO.
+This project will be supported by a MIT R&D collaboration grant from Dutch government entity RVO.
