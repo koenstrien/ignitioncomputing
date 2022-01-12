@@ -2,7 +2,7 @@
 title: Ignition Computing & Plasma Matters team up to accelerate simulations
 layout: featured
 author: daan_van_vugt
-image: /assets/img/news/nasa-dCgbRAQmTQA-unsplash.jpg
+image: /assets/img/news/plasimo_img.png
 categories: news
 ---
 **Multiphysics simulations with plasmas are computationally very difficult. In many cases extremely long calculation times prevent the study of interesting phenomena. Ignition Computing is developing PreconNet to generate preconditioners, a kind of ‘pseudo-solutions’ that can be used with an iterative approach to speed up equation solving. Our new collaboration aims to speed up PLASIMO simulations using PreconNet, leading to enormous speed-ups of 30% or more.**
