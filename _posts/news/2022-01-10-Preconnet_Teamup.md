@@ -13,6 +13,6 @@ Choosing a useful preconditioner is one of the arts of simulation engineering. I
 
 An improvement can be made by generating preconditioners based on the stored results of earlier simulation timesteps. Our viability study resulted in a working proof-of-principle and strong indications of scaling and applicability.
 
-This is why we’re happy to be moving to the Proof of Concept phase, which we will build together with Plasma Matters, the developers of the PLASIMO software that is used in several high-tech industries.
+This is why we’re happy to be moving to the Proof of Concept phase, which we will build together with Plasma Matters, the developers of the [PLASIMO](https://plasimo.phys.tue.nl/) software that is used in several high-tech industries.
 
 This project will be supported by a MIT R&D collaboration grant from Dutch government entity RVO.
