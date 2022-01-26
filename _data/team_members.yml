@@ -18,6 +18,7 @@
   role: Software Engineer
   url: mailto:msanders@ignitioncomputing.com
   email: msanders@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/mike-sanders-b3a09a225/
   image_base: /assets/img/team/mike
 -
   title:
@@ -25,3 +26,10 @@
   role: Business Analyst
   linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
   image_base: /assets/img/team/brishna
+-
+  title: 
+  name: ir. M. Sebregts
+  role: Software Engineer
+  email: msebregts@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/maartensebregts/
+  image_base: /assets/img/team/maarten
