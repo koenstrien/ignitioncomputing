@@ -7,19 +7,20 @@
   bio: Experienced developer with multiple years of experience building high-performance computing codes for physics, as well as full-stack web development in several languages. PhD in nuclear fusion, Master's Degree in Applied Physics from Eindhoven University of Technology.
   image_base: /assets/img/team/daan
 -
-  title:
-  name: R. Hassonov
-  role: Software Engineer
-  linkedin: https://linkedin.com/in/ruslan-hassonov-88bbb087
-  image_base: /assets/img/team/ruslan
--
-  title:
-  name: ir. M. Sanders
+  title: ir.
+  name: M. Sanders
   role: Software Engineer
   url: mailto:msanders@ignitioncomputing.com
   email: msanders@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/mike-sanders-b3a09a225/
   image_base: /assets/img/team/mike
+-
+  title: ir.
+  name: M. Sebregts
+  role: Software Engineer
+  email: msebregts@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/maartensebregts/
+  image_base: /assets/img/team/maarten
 -
   title:
   name: B. Nader
@@ -27,9 +28,14 @@
   linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
   image_base: /assets/img/team/brishna
 -
-  title: 
-  name: ir. M. Sebregts
+  title: bsc.
+  name: C. van Haren
   role: Software Engineer
-  email: msebregts@ignitioncomputing.com
-  linkedin: https://www.linkedin.com/in/maartensebregts/
-  image_base: /assets/img/team/maarten
+  linkedin: https://www.linkedin.com/in/cas-van-haren-00b88a151/
+  image_base: /assets/img/team/cas
+-
+  title: bsc.
+  name: L.D. Meier
+  role: Software Engineer
+  email: l.d.meier@student.tue.nl
+  image_base: /assets/img/team/lorenz
