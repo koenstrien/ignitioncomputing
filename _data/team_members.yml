@@ -39,3 +39,17 @@
   role: Software Engineer
   email: l.d.meier@student.tue.nl
   image_base: /assets/img/team/lorenz
+-
+  title: bsc.
+  name: A. Hilhorst
+  role: Intern
+  email: ahilhorst@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/arnouthilhorst/
+  image_base: /assets/img/team/arnout
+-
+  title: 
+  name: S. Hobeijn
+  role: Intern
+  email: s.hobeijn@student.fontys.nl
+  linkedin: https://www.linkedin.com/in/stefan-hobeijn-478685231/
+  image_base: /assets/img/team/stefan
