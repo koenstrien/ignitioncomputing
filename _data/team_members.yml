@@ -22,32 +22,20 @@
   linkedin: https://www.linkedin.com/in/maartensebregts/
   image_base: /assets/img/team/maarten
 -
-  title:
-  name: B. Nader
-  role: Business Analyst
-  linkedin: https://www.linkedin.com/in/brishna-nader-72a4185a/
-  image_base: /assets/img/team/brishna
--
-  title: bsc.
+  suffix: BSc
   name: C. van Haren
   role: Software Engineer
   linkedin: https://www.linkedin.com/in/cas-van-haren-00b88a151/
   image_base: /assets/img/team/cas
 -
-  title: bsc.
-  name: L.D. Meier
-  role: Software Engineer
-  email: l.d.meier@student.tue.nl
-  image_base: /assets/img/team/lorenz
--
-  title: bsc.
+  suffix: BSc
   name: A. Hilhorst
   role: Intern
   email: ahilhorst@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/arnouthilhorst/
   image_base: /assets/img/team/arnout
 -
-  title: 
+  title:
   name: S. Hobeijn
   role: Intern
   email: s.hobeijn@student.fontys.nl

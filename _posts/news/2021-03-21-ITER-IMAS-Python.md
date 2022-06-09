@@ -20,7 +20,7 @@ By just-in-time reading of the IMAS-DD definitions at runtime, datasets with dif
 
 Next steps will include the development of further proofs-of-concepts that are enabled by this flexible approach. These will be developed in-house at DIFFER and also with partners in the wider fusion community.
 
-<small>Images Credit © ITER Organization, [iter.org/](https://iter.org), DIFFER</small>
+<small>Images Credit © ITER Organization, [iter.org/](https://iter.org), DIFFER. TM - ITER is a trademark of the ITER Organization. This is not an official ITER Organization product. The ITER logo is used here by courtesy of the ITER Organization and does not imply endorsement by ITER Organization</small>
 
 [![ITER](/assets/img/clients/iter.png)](https://iter.org)
 &nbsp;

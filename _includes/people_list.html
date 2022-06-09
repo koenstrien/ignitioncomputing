@@ -9,7 +9,7 @@
                     {% include picture.html file=member.image_base webp='1' jpg='1' alt="Photo" %}
                 </div>
                 <div class="team-info">
-                    <h3>{{member.title}}{% if member.title %}&nbsp;{% endif %}{{member.name}}</h3>
+                    <h3>{{member.title}}{% if member.title %}&nbsp;{% endif %}{{member.name}}{% if member.suffix %}&nbsp;{% endif %}{{member.suffix}}</h3>
                     <span>{{ member.role }}</span>
                 </div>
             </a>
