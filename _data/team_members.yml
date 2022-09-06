@@ -23,12 +23,6 @@
   image_base: /assets/img/team/maarten
 -
   suffix: BSc
-  name: C. van Haren
-  role: Software Engineer
-  linkedin: https://www.linkedin.com/in/cas-van-haren-00b88a151/
-  image_base: /assets/img/team/cas
--
-  suffix: BSc
   name: A. Hilhorst
   role: Intern
   email: ahilhorst@ignitioncomputing.com
@@ -36,8 +30,19 @@
   image_base: /assets/img/team/arnout
 -
   title:
-  name: S. Hobeijn
+  name: A. Tcaciuc
   role: Intern
-  email: s.hobeijn@student.fontys.nl
-  linkedin: https://www.linkedin.com/in/stefan-hobeijn-478685231/
-  image_base: /assets/img/team/stefan
+  email: atcaciuc@ignitioncomputing.com
+  image_base: /assets/img/team/unknown
+-
+  title:
+  name: J. Eillebrecht
+  role: Intern
+  email: jeillebrecht@ignitioncomputing.com
+  image_base: /assets/img/team/unknown
+-
+  title:
+  name: W. Podrono
+  role: Intern
+  email: wpodrono@ignitioncomputing.com
+  image_base: /assets/img/team/unknown
