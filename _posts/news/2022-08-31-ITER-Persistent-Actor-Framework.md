@@ -12,7 +12,7 @@ The international organisation ITER is building the largest tokamak in the world
 
 Most integrated modelling workflow tools use a directed acyclic graph (DAG) to organise operations. For co-simulation purposes, with an unknown number of iterations and many timestep loops, this paradigm is problematic. It is then better to work with semi-autonomous agents which exchange messages with each other, such as implemented in MUSCLE3, the Multiscale Coupling Library and Environment.
 
-The Dutch Institute for Fundamental Energy Research (DIFFER) formed a consortium together with Ignition Computing and Poznan Supercomputing and Networking Center (PSNC), advised by the Netherlands eScienceCenter (NLeSC), the original developers of MUSCLE3, to submit the winning bid on an ITER call for the development of a persistent actor simulation framework.
+The Dutch Institute for Fundamental Energy Research (DIFFER) formed a consortium together with Ignition Computing and Poznan Supercomputing and Networking Center (PSNC), advised by the Netherlands eScienceCenter (NLeSC), which co-developed MUSCLE3, to submit the winning bid on an ITER call for the development of a persistent actor simulation framework.
 
 In the coming year we will build a framework for ITER, based on MUSCLE3. This will be an integral part of the ITER integrated modelling strategy, which is essential for optimal operation of the reactor.
 
