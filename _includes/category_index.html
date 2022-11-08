@@ -1,7 +1,7 @@
 <section class="service-area pt-100 pb-50">
   <div class="container">
       <div class="row">
-        {% for post in site.posts %}
+        {% for post in site.categories[include.name] %}
               <div class="col-md-6 mb-50 ">
                   <div class="services-box">
                       {% if post.image %}
@@ -30,6 +30,7 @@
   </div>
 </section>
 <!-- services-cta -->
+{% if include.name == "news" %}
 <section class="services-cta grey-bg pt-50 pb-20">
   <div class="container">
       <div class="row align-items-center">
@@ -47,4 +48,23 @@
       </div>
   </div>
 </section>
+{% elsif include.name == "careers" %}
+<section class="services-cta grey-bg pt-50 pb-20">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-md-9 mb-30">
+              <div class="call-to-action">
+                  <h3>No matching job opening?</h3>
+                  <p>Feel free to send a speculative application to us.</p>
+              </div>
+          </div>
+          <div class="col-md-3 mb-30">
+              <div class="call-to-action">
+                  <a href="/contact" class="btn">get in touch</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+{% endif %}
 <!-- counter-area -->
