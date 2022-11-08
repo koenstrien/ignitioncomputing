@@ -127,12 +127,18 @@ h5 {
 h6 {
 	font-size: 16px;
 }
-ul {
+.widget ul {
 	margin: 0px;
 	padding: 0px;
 }
-li {
+.widget li {
 	list-style: none
+}
+li {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 26px;
+	color: #7e7e7e;
 }
 p {
 	font-size: 14px;
