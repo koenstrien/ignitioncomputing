@@ -12,7 +12,7 @@ Modern science requires good software. At Ignition Computing we support science 
 
 At Ignition Computing you will have the opportunity to work on cutting-edge projects for large organisations, such as ITER, the world's largest science experiment. We target complex and challenging projects, because those are the most fun! In a small team at our young company, you will be given freedom and flexibility -- with the associated responsibility -- to execute your tasks. We encourage collaboration and personal growth, allowing you to broaden your skills across all our domains.
 
-This opening is a full-time position based on 40 hours per week. You will be based in our office in Eindhoven, but occasional remote work is possible when assignments allow.
+This opening is a full-time position based on 40 hours per week. You will be based in our office in Eindhoven, but occasional remote work is possible when assignments allow. The starting date is flexible and can be discussed.
 
 ### Responsibilities
 
@@ -36,9 +36,4 @@ This opening is a full-time position based on 40 hours per week. You will be bas
 - Experience with numerical simulations.
 - Ability to speak and write in Dutch fluently.
 
-### Starting date
-
-- The deadline for applying is set at December 31st 2022.
-- The starting date is flexible and can be discussed.
-
-To apply, send your job application including CV and cover letter to <careers@ignitioncomputing.com>.
+To apply, send your job application including CV and cover letter to <careers@ignitioncomputing.com> before December 31st 2022.
