@@ -36,4 +36,9 @@ This opening is a full-time position based on 40 hours per week. You will be bas
 - Experience with numerical simulations.
 - Ability to speak and write in Dutch fluently.
 
+### Starting date
+
+- The deadline for applying is set at December 31st 2022.
+- The starting date is flexible and can be discussed.
+
 To apply, send your job application including CV and cover letter to <careers@ignitioncomputing.com>.
