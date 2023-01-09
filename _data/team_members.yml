@@ -22,12 +22,19 @@
   linkedin: https://www.linkedin.com/in/maartensebregts/
   image_base: /assets/img/team/maarten
 -
-  suffix: BSc
+  title: ir.
   name: A. Hilhorst
-  role: Intern
+  role: Software Engineer
   email: ahilhorst@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/arnouthilhorst/
   image_base: /assets/img/team/arnout
+-
+  title: ir.
+  name: K.L. van de Plassche
+  role: Software Engineer
+  email: kvandeplassche@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/karelvandeplassche/
+  image_base: /assets/img/team/karel
 -
   title:
   name: A. Tcaciuc
