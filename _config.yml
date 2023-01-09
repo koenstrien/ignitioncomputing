@@ -25,7 +25,8 @@ plugins:
 
 cover_image: "/assets/img/slider/slider1.jpg"
 phone: +31 6 5202 8891
-address: Lichtstraat 1, Eindhoven, NL
+mailing_address: Lichtstraat 1, 5611XB Eindhoven, NL
+visiting_address: Elegaststraat 1, 5625CV Eindhoven, NL
 lat: 51.43877
 lon: 5.472555
 zoom: 5
