@@ -24,7 +24,7 @@
 -
   title: ir.
   name: A. Hilhorst
-  role: Software Engineer
+  role: Junior ML Engineer
   email: ahilhorst@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/arnouthilhorst/
   image_base: /assets/img/team/arnout
@@ -37,6 +37,12 @@
   image_base: /assets/img/team/karel
 -
   title:
+  name: W. Podrono
+  role: Junior ML Engineer
+  email: wpodrono@ignitioncomputing.com
+  image_base: /assets/img/team/wensley
+-
+  title:
   name: A. Tcaciuc
   role: Intern
   email: atcaciuc@ignitioncomputing.com
@@ -47,9 +53,3 @@
   role: Intern
   email: jeillebrecht@ignitioncomputing.com
   image_base: /assets/img/team/jeroen
--
-  title:
-  name: W. Podrono
-  role: Intern
-  email: wpodrono@ignitioncomputing.com
-  image_base: /assets/img/team/wensley
