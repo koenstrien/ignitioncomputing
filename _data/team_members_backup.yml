@@ -1,7 +1,7 @@
 -
   title: dr.ir.
   name: D.C. van Vugt
-  role: Opperdaan
+  role: Founder & Director
   email: dvanvugt@ignitioncomputing.com
   linkedin: https://linkedin.com/in/daanv
   bio: Experienced developer with multiple years of experience building high-performance computing codes for physics, as well as full-stack web development in several languages. PhD in nuclear fusion, Master's Degree in Applied Physics from Eindhoven University of Technology.
@@ -9,7 +9,7 @@
 -
   title: ir.
   name: M. Sanders
-  role: Onderdaan
+  role: Software Engineer
   url: mailto:msanders@ignitioncomputing.com
   email: msanders@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/mike-sanders-b3a09a225/
@@ -17,39 +17,39 @@
 -
   title: ir.
   name: M. Sebregts
-  role: Onderdaan
+  role: Software Engineer
   email: msebregts@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/maartensebregts/
   image_base: /assets/img/team/maarten
 -
   title: ir.
   name: A. Hilhorst
-  role: Onderdaan
+  role: Junior ML Engineer
   email: ahilhorst@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/arnouthilhorst/
   image_base: /assets/img/team/arnout
 -
   title: ir.
   name: K.L. van de Plassche
-  role: Onderdaan
+  role: Software Engineer
   email: kvandeplassche@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/karelvandeplassche/
   image_base: /assets/img/team/karel
 -
   title:
   name: W. Podrono
-  role: Onderdaan
+  role: Junior ML Engineer
   email: wpodrono@ignitioncomputing.com
   image_base: /assets/img/team/wensley
 -
   title:
   name: A. Tcaciuc
-  role: Onderdaan
+  role: Intern
   email: atcaciuc@ignitioncomputing.com
   image_base: /assets/img/team/alexandru
 -
   title:
   name: J. Eillebrecht
-  role: Onderdaan
+  role: Intern
   email: jeillebrecht@ignitioncomputing.com
   image_base: /assets/img/team/jeroen
