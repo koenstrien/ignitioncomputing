@@ -10,7 +10,7 @@ description: We have extensive experience writing simulation codes and infra, an
     <div class="col-md-12">
         <div class="service-details mb-40">
             <h3>Research software is our specialty</h3>
-            <p>Our team holds PhD and MScs in (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
+            <p>Our team members have advanced degrees, PhD and/or MSc, in the fields of (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
 	    </p>
 	    <p>
 	    We are available to help you improve your research and scientific software.
