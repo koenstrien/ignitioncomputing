@@ -3,7 +3,7 @@ layout: featured
 title: Visualisation
 icon: /assets/img/icons/bar-chart-outline.svg
 image: /assets/img/service/6.jpg
-description: Good visualisation is a super-power in science. It aids discovery and communication of ideas immensely.
+description: Good visualisation is a super-power. It is essential for discovery and communication.
 ---
 
 <div class="row">

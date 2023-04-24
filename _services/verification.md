@@ -3,7 +3,7 @@ layout: featured
 title: Verification &amp; Validation
 icon: /assets/img/icons/ruler.svg
 image: /assets/img/service/3.jpg
-description: Code verification and model validation are essential to obtain correct results. We have extensive experience with test-driven development and testing existing codes.
+description: We deliver fully tested software and can help validate your code's results.
 ---
 
 <div class="row">
