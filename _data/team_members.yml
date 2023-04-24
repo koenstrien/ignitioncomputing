@@ -23,18 +23,17 @@
   image_base: /assets/img/team/maarten
 -
   title: ir.
-  name: A. Hilhorst
-  role: Junior ML Engineer
-  email: ahilhorst@ignitioncomputing.com
-  linkedin: https://www.linkedin.com/in/arnouthilhorst/
-  image_base: /assets/img/team/arnout
--
-  title: ir.
   name: K.L. van de Plassche
   role: Software Engineer
   email: kvandeplassche@ignitioncomputing.com
   linkedin: https://www.linkedin.com/in/karelvandeplassche/
   image_base: /assets/img/team/karel
+-
+  title: ir.
+  name: E.W. Sieburgh
+  role: Trainee Research Software Engineer
+  email: esieburgh@ignitioncomputing.com
+  image_base: /assets/img/team/erik
 -
   title:
   name: W. Podrono
@@ -43,13 +42,7 @@
   image_base: /assets/img/team/wensley
 -
   title:
-  name: A. Tcaciuc
+  name: J. Lit
   role: Intern
-  email: atcaciuc@ignitioncomputing.com
-  image_base: /assets/img/team/alexandru
--
-  title:
-  name: J. Eillebrecht
-  role: Intern
-  email: jeillebrecht@ignitioncomputing.com
-  image_base: /assets/img/team/jeroen
+  email: jlit@ignitioncomputing.com
+  image_base: /assets/img/team/judah
