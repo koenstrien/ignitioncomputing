@@ -3,7 +3,7 @@ layout: featured
 title: Full-stack development
 icon: /assets/img/icons/code-working-outline.svg
 image: /assets/img/service/2.jpg
-description: We can build complex (web)applications and mobile apps.
+description: We have delivered complex web applications and mobile apps.
 ---
 
 <div class="row">

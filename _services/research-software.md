@@ -1,16 +1,16 @@
 ---
 layout: featured
-title: Scientific Software
+title: Research Software
 image: /assets/img/service/4.jpg
 icon: /assets/img/icons/bulb-outline.svg
-description: Scientific software is our specialty. We have extensive experience writing simulation codes, analysis tools and workflows.
+description: We have extensive experience writing simulation codes and infra, and analysis tools.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Scientific software is our specialty</h3>
-            <p>Our team holds PhDs in computational physics, who have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
+            <h3>Research software is our specialty</h3>
+            <p>Our team holds PhD and MScs in (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
 	    </p>
 	    <p>
 	    We are available to help you improve your research and scientific software.

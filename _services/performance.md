@@ -3,7 +3,7 @@ layout: featured
 title: Performance optimization
 icon: /assets/img/icons/stopwatch-outline.svg
 image: /assets/img/service/5.jpg
-description: High performance is essential. We have extensive optimalisation and parallelisation experience in HPC and business contexts.
+description: We have extensive optimalisation and parallelisation experience in HPC.
 ---
 
 <div class="row">
