@@ -15,6 +15,6 @@ At the same time, the platform also takes into account the practical experience 
 
 Finally, Projoules is a platform that is continuously improving. The Projoules and Ignition Computing team are constantly working to refine and enhance the models and user friendliness of the platform. This means that growers can be confident that they are using the most up-to-date and effective tools for managing their crops.
 
-In conclusion, Projoules is a powerful and innovative tool for greenhouse crop planning and management. By using physics-based models and incorporating both scientific research and practical experience, the platform provides growers with a comprehensive set of tools for optimizing crop growth and maximizing yield. With its emphasis on supporting growers and its ongoing development, Projoules is sure to continue to be a valuable tool for growers in the years to come.
+In conclusion, Projoules is a powerful and innovative tool for greenhouse crop planning and management. By using physics-based models and incorporating both scientific research and practical experience, the platform provides growers with a comprehensive set of tools for optimizing crop growth and maximizing yield. With its emphasis on supporting growers and its ongoing development, Projoules is sure to continue to be a valuable tool for growers in the years to come. More info can be found on the [projoules site.](https://www.projoules.com/)
 
-[![ITER](/assets/img/clients/projoules.png)](https://www.projoules.com/)
+[![Projoules](/assets/img/clients/projoules.png)](https://www.projoules.com/)
