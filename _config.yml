@@ -1,6 +1,6 @@
-title: "Ignition Computing"
+title: "Ignition Computing - High-Tech Software Consulting"
 email: "info@ignitioncomputing.com"
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "coc:"
  Ignition Computing helps you build unique software
 coc: 81011504
 baseurl: "" # the subpath of your site, e.g. /blog
