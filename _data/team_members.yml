@@ -30,6 +30,13 @@
   image_base: /assets/img/team/karel
 -
   title: ir.
+  name: Y.L. de Jong
+  role: Software Engineer
+  email: ydejong@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/yannick-de-jong
+  image_base: /assets/img/team/yannick
+-
+  title: ir.
   name: E.W. Sieburgh
   role: Trainee Research Software Engineer
   email: esieburgh@ignitioncomputing.com
