@@ -1,5 +1,5 @@
 ---
-title: Open Research Calendar Taxila
+title: Research Training Event Calendar Taxila
 layout: featured
 author: mike_sanders
 image: /assets/img/news/research-training.jpg
