@@ -21,8 +21,10 @@ Some of the current running rails projects we have:
 ### Responsibilities
 
 - Work in close cooperation with customers and colleagues to design and build new software.
+- Come up with new and creative ideas.
 - Work on front-end software.
 - Work on back-end software.
+- Work out planning of projects and sprints.
 
 ### What we ask of you
 
