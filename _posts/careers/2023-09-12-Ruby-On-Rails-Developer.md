@@ -38,7 +38,7 @@ Some of the current running rails projects we have:
 ### What you get from us 
 
 - Salary in the range of €2800 en €3500
-- Free lunch
+- Free all-you-can-eat lunch
 - Flexible vacation policy
 - Option to partially work from home
 - Lively work place in city centre of Eindhoven
