@@ -23,13 +23,6 @@
   image_base: /assets/img/team/maarten
 -
   title: ir.
-  name: K.L. van de Plassche
-  role: Software Engineer
-  email: kvandeplassche@ignitioncomputing.com
-  linkedin: https://www.linkedin.com/in/karelvandeplassche/
-  image_base: /assets/img/team/karel
--
-  title: ir.
   name: Y.L. de Jong
   role: Software Engineer
   email: ydejong@ignitioncomputing.com

@@ -5,14 +5,13 @@
   linkedin: https://linkedin.com/in/toonweyens
   image_base: /assets/img/team/toon
 -
-  title: dr.ir.
-  name: M.C.C. Messmer
-  role: Consultant @ Pippl
-  linkedin: https://linkedin.com/in/mccmessmer
-  image_base: /assets/img/team/max
--
   name: M. Leemans
   role: CEO @ Afterservice
   linkedin: https://linkedin.com/in/markleemans
   image_base: /assets/img/team/mark
-  
+-
+  title: ir.
+  name: K.L. van de Plassche
+  role: Software Engineer
+  linkedin: https://www.linkedin.com/in/karelvandeplassche/
+  image_base: /assets/img/team/karel
