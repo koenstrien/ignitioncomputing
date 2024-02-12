@@ -24,11 +24,11 @@ Some of the current running rails projects we have:
 
 ### Responsibilities
 
-- Work in close cooperation with customers and colleagues to design and build new software.
-- Come up with new and creative ideas.
-- Work on front-end software.
-- Work on back-end software.
-- Work out planning of projects and sprints.
+- Work in close cooperation with customers and colleagues to design and build new software;
+- Come up with new and creative ideas;
+- Work on front-end software;
+- Work on back-end software;
+- Work out planning of projects and sprints;
 
 ### What we ask of you
 
@@ -41,11 +41,11 @@ Some of the current running rails projects we have:
 
 ### What you get from us 
 
-- Salary in the range of €2800 en €3500
-- Free all-you-can-eat lunch
-- Flexible vacation policy
-- Option to partially work from home
-- Lively work place in city centre of Eindhoven
-- Lots of opportunities to grow
+- Salary in the range of €2800 to €3500;
+- Free all-you-can-eat lunch;
+- Flexible vacation policy;
+- Option to partially work from home;
+- Lively work place in city centre of Eindhoven;
+- Lots of opportunities to grow;
 
-To apply, send your job application including CV and cover letter to <careers@ignitioncomputing.com>.
+To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com>.

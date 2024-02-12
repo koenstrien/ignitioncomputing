@@ -19,15 +19,15 @@ Ignition Computing is a startup in Eindhoven based on the Keizersgracht. Our cul
 Some of the current running projects we have:
 
 - Preconnet, a tool to benchmark and accelerate physics simulations through optimizing configurations, initial guesses and preconditioning.
-- ITER support, the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures and developing simulation code.
-- Consulting for various Dutch tech companies such as [Celsian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php)
+- [ITER](https://iter.org) support, the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures and developing simulation code.
+- Consulting for various Dutch tech companies such as [Celsian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
 
 ### Responsibilities
 
-- Work in close cooperation with customers and colleagues to design and build new software.
-- Come up with new and creative ideas.
-- Work out planning of projects and sprints.
-- Build innovative software.
+- Work in close cooperation with customers and colleagues to design and build new software;
+- Come up with new and creative ideas;
+- Work out planning of projects and sprints;
+- Build innovative software;
 
 ### What we ask of you
 
@@ -40,11 +40,11 @@ Some of the current running projects we have:
 
 ### What you get from us 
 
-- Salary in the range of €2800 en €3500
-- Free all-you-can-eat lunch
-- Flexible vacation policy
-- Option to partially work from home
-- Lively work place in city centre of Eindhoven
-- Lots of opportunities to grow
+- Salary in the range of €2800 to €3500;
+- Free all-you-can-eat lunch;
+- Flexible vacation policy;
+- Option to partially work from home;
+- Lively work place in city centre of Eindhoven;
+- Lots of opportunities to grow;
 
-To apply, send your job application including CV and cover letter to <careers@ignitioncomputing.com>.
+To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com>.
