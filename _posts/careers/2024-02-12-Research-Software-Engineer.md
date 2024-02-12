@@ -2,7 +2,7 @@
 title: Research Software Engineer
 layout: featured
 author: mike sanders  
-image: /assets/img/news/research_software_engineer.png
+image: /assets/img/news/research_software_engineer.jpg
 categories: careers
 ---
 
