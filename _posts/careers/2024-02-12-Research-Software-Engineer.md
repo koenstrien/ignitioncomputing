@@ -8,7 +8,7 @@ categories: careers
 
 ### About the job
 
-At Ignition computing we specialize in high-performance computing and research support software. Be it through building infrastructure for nuclear fusion research, reducing computation times through simulation acceleration or by building a platform for greenhouse optimization, we work with our clients to make the world a better and greener place.
+At Ignition computing we specialize in high-performance computing and research software. Be it through building infrastructure for nuclear fusion research, reducing computation times through simulation acceleration or by building a platform for greenhouse optimization, we work with our clients to make the world a better and greener place.
 
 As a developer at Ignition Computing you will provide programming and consulting services for commercial and research support purposes. You will get the chance to be involved at every step of the way in the development of software. 
 
