@@ -35,17 +35,12 @@
   email: esieburgh@ignitioncomputing.com
   image_base: /assets/img/team/erik
 -
-  title:
-  name: W. Podrono
-  role: Junior ML Engineer
-  email: wpodrono@ignitioncomputing.com
-  image_base: /assets/img/team/wensley
--
-  title:
-  name: J. Lit
-  role: Junior Software Engineer
-  email: jlit@ignitioncomputing.com
-  image_base: /assets/img/team/judah
+  title: ir.
+  name: Y.S. le Grand
+  role: Trainee Research Software Engineer
+  email: ylegrand@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/yonis-le-grand-b884aa4a/
+  image_base: /assets/img/team/yonis
 -
   title:
   name: Suus
