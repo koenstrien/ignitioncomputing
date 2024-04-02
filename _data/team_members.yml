@@ -30,6 +30,13 @@
   image_base: /assets/img/team/yannick
 -
   title: ir.
+  name: S.C. Blokhuizen
+  role: Software Engineer
+  email: sblokhuizen@ignitioncomputing.com
+  linkedin: https://www.linkedin.com/in/sebbe-blokhuizen/
+  image_base: /assets/img/team/sebbe
+-
+  title: ir.
   name: E.W. Sieburgh
   role: Trainee Research Software Engineer
   email: esieburgh@ignitioncomputing.com
