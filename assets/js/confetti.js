@@ -111,17 +111,6 @@ class ConfettiBurst {
     }
 }
 
-function hslToHex(h, s, l) {
-    l /= 100;
-    const a = s * Math.min(l, 1 - l) / 100;
-    const f = n => {
-        const k = (n + h / 30) % 12;
-        const color = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
-        return Math.round(255 * color).toString(16).padStart(2, '0');   // convert to Hex and prefix "0" if needed
-    };
-    return `#${f(0)}${f(8)}${f(4)}`;
-}
-
 class TreatBurstParticle {
     constructor(position, context) {
         this.context = context
@@ -132,13 +121,7 @@ class TreatBurstParticle {
         this.rotation = 360 * Math.random();
         this.rotation_speed = 10 * (Math.random() - 0.5);
         this.hue = 360 * Math.random();
-        this.image = new Image();
-        this.image.src = 'data:image/svg+xml,' + encodeURIComponent(`
-            <svg fill="${hslToHex(this.hue, 90, 65)}" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800px" height="800px" viewBox="0 0 885.851 885.851" xml:space="preserve">
-                <path d="M755.125,130.775c1.399-33.9-10.8-68.2-36.7-94.1c-49.1-49.101-128.4-48.801-177.5,0.3c-38.8,38.8-47.5,96-24.2,143.6    l-336.1,336.2c-47.6-23.3-104.8-14.6-143.6,24.2c-49.1,49-49.3,128.5-0.2,177.6c25.9,25.9,60.1,38,94,36.601    c-1.4,33.899,10.8,68.2,36.7,94c49.1,49.1,128.4,48.8,177.5-0.3c38.801-38.801,47.4-96,24.101-143.601l336.1-336.1    c47.601,23.3,104.8,14.6,143.601-24.2c49.1-49.101,49.3-128.601,0.199-177.7C823.125,141.476,789.025,129.375,755.125,130.775z"/>
-            </svg>
-        `);
-        this.opacity = 1;
+        this.opacity = 100;
         this.lifetime = Math.random() + 0.25;
     }
 
@@ -160,16 +143,35 @@ class TreatBurstParticle {
     }
 
     draw() {
-        if (this.image.complete) {
-                let context = this.context.canvas_ctx
-                let x = this.position.x
-                let y = this.position.y
-                context.save();
-                context.translate(x, y);
-                context.rotate(this.rotation * Math.PI / 180);
-                context.drawImage(this.image, 0, 0, this.size.x, this.size.y);
-                context.restore()
-        }
+        let context = this.context.canvas_ctx
+        let x = this.position.x
+        let y = this.position.y
+        context.save();
+        context.translate(x, y);
+        context.scale(this.size.x / 800, this.size.y / 800)
+        context.rotate(this.rotation * Math.PI / 180);
+        context.beginPath();
+        context.fillStyle = `hsla(${this.hue}deg, 90%, 65%, ${this.opacity}%)`;
+        // Generated using inkscape
+        context.moveTo(755.125000, 130.775000);
+        context.bezierCurveTo(756.524000, 96.875000, 744.325000, 62.575000, 718.425000, 36.675000);
+        context.bezierCurveTo(669.325000, -12.426000, 590.025000, -12.126000, 540.925000, 36.975000);
+        context.bezierCurveTo(502.125000, 75.775000, 493.425000, 132.975000, 516.725000, 180.575000);
+        context.lineTo(180.625000, 516.775000);
+        context.bezierCurveTo(133.025000, 493.475000, 75.825000, 502.175000, 37.025000, 540.975000);
+        context.bezierCurveTo(-12.075000, 589.975000, -12.275000, 669.475000, 36.825000, 718.575000);
+        context.bezierCurveTo(62.725000, 744.475000, 96.925000, 756.575000, 130.825000, 755.176000);
+        context.bezierCurveTo(129.425000, 789.075000, 141.625000, 823.376000, 167.525000, 849.176000);
+        context.bezierCurveTo(216.625000, 898.276000, 295.925000, 897.976000, 345.025000, 848.876000);
+        context.bezierCurveTo(383.826000, 810.075000, 392.425000, 752.876000, 369.126000, 705.275000);
+        context.lineTo(705.226000, 369.175000);
+        context.bezierCurveTo(752.827000, 392.475000, 810.026000, 383.775000, 848.827000, 344.975000);
+        context.bezierCurveTo(897.927000, 295.874000, 898.127000, 216.374000, 849.026000, 167.275000);
+        context.bezierCurveTo(823.125000, 141.476000, 789.025000, 129.375000, 755.125000, 130.775000);
+        context.closePath();
+        context.fill();
+        context.restore()
+
     }
 }
 
