@@ -1216,10 +1216,10 @@ label {
 	left: 0;
 	top: 0;
 	opacity: 0;
-	transition: .5s;
+	transition: .3s;
 }
 .single-team:hover .team-img::before{
-	opacity: .7;
+	opacity: .3;
 }
 .team-img img {
 	width: 100%;
