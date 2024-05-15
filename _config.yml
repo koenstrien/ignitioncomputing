@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "coc:"
  Ignition Computing helps you build unique software
 coc: 81011504
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
+url: "https://ignitioncomputing.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
   #facebook_url:
   #twitter_url:
   #github_url:
