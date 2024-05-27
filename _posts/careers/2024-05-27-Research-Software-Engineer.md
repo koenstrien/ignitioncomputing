@@ -48,4 +48,4 @@ Some of the current running projects we have:
 - Lively work place in city centre of Eindhoven;
 - Lots of opportunities to grow;
 
-To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com>.
+To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com> before Monday June 17th.
