@@ -35,7 +35,7 @@ Some of the current running projects we have:
 - Demonstrable knowledge and experience in software development;
 - Familiarity with Git and CI/CD pipelines;
 - Ability to work independently and propose new ideas within a team;
-- Fluent in written and spoken English and Dutch;
+- Fluent in written and spoken English;
 - Willingness to learn;
 - Familiarity with Python, C++ and Fortran would be a plus;
 
