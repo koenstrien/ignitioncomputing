@@ -11,4 +11,4 @@ Ignition computing celebrates its new membership of the FuseNet Association! Thi
 
 As many at Ignition Computing have themselves profited directly from Fusenet's help, they look forward to providing a place for students to learn about software development for Nuclear Fusion.
 
-[![Fusenet](/assets/img/clients/fusenet.png)](https://fusenet.eu/)
+[![Fusenet](/assets/img/clients/fusenet_logo.jpg)](https://fusenet.eu/)
