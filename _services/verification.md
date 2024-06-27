@@ -2,23 +2,22 @@
 layout: featured
 title: Verification &amp; Validation
 icon: /assets/img/icons/ruler.svg
-image: /assets/img/service/3.jpg
+image: /assets/img/service/pexels-thisisengineering-3912976-min.jpg
 description: We deliver fully tested software and can help validate your code's results.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Correctness is paramount</h3>
-            <p>In science as in business, it is imperative to draw the right conclusions. This depends entirely on your software's output being accurate.
-	    It is therefore of utmost important to continuously verify your software and validate the models used in it.</p>
+            <h3>Accuracy, Reliability and Applicability</h3>
+            <p>Verification and validation are essential in science, engineering and business to ensure accuracy and usefulness of models and systems. Verification confirms correct implementation and consistency, while validation ensures real-world applicability and relevance of the engineered system. Together, they support informed decision-making, and optimize resource use. These processes are critical for managing risks and fostering innovation.</p>
         </div>
     </div>
 </div>
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/5.jpg" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/pexels-luis-gomes-166706-546819.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">

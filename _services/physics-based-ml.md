@@ -1,6 +1,7 @@
 ---
 layout: featured
 title: Physics-based Machine Learning
+image: /assets/img/service/pexels-googledeepmind-17483874.jpg
 icon: /assets/img/icons/git-pull-request-outline.svg
 description: Our ML surrogate and reduced order models are proven in plasma physics and control.
 ---
