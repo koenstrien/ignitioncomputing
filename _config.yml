@@ -41,9 +41,9 @@ collections:
       - research-software.md
       - physics-based-ml.md
       - performance.md
-      - fullstack.md
       - verification.md
       - visualisation.md
+      - modelling.md
 
 ########################################################
 # Site configuration for the Jekyll 3 Pagination Gem
