@@ -4,6 +4,7 @@ layout: featured
 author: Mike Sanders  
 image: /assets/img/news/research_software_engineer.jpg
 categories: careers
+description: Job Opening for nuclear fusion and computational physics Research Software Engineer in Eindhoven
 ---
 
 ### About the job
