@@ -8,44 +8,44 @@ categories: careers
 
 ### Vacature: Research Software Engineer
 
-At Ignition computing we specialize in high-performance computing and research software. Be it through building infrastructure for nuclear fusion research, reducing computation times through simulation acceleration or by building a platform for greenhouse optimization, we work with our clients to make the world a better and greener place.
+Bij Ignition computing zijn we gespecialiseerd in high-performance computing en onderzoekssoftware. we werken samen met onze klanten om de wereld een betere en duurzamere plek te maken. Ondere andere door het bouwen van infrastructuur voor kernfusie-onderzoek, het verminderen van rekentijden door simulatie versnelling of door het bouwen van een platform voor de optimalisatie van glastuinbouw.
 
-As a developer at Ignition Computing you will provide programming and consulting services for commercial and research support purposes. You will get the chance to be involved at every step of the way in the development of software. 
+Als ontwikkelaar bij Ignition Computing lever je programmeer- en consulting diensten voor zowel commerciële als onderzoeksdoeleinden. Je krijgt de kans om bij elke stap van de ontwikkeling van software betrokken te zijn.
 
-We mainly code in Python, C++, and Fortran. Our knowledgeable small team is all about sharing know-how and helping each other thrive. If you want to grow your skills as a developer, you're the kind of person we're after.
+We programmeren voornamelijk in Python, C++ en Fortran. In ons kleine team met veel kennis hanteren wij een filosofie kan kennis deling en elkaar helpen bij nieuwe uitdagingen. Als jij je vaardigheden als software developer verder wilt ontwikkelen, dan ben jij de persoon die we zoeken.
 
-Ignition Computing is a startup in Eindhoven based on the Keizersgracht. Our culture is focussed on cooperation, growth and a healthy work-life balance. At Ignition Computing we believe in an informal environment where everyone is equal. We share our office with Afterservice, and share lunch and Friday afternoon drinks with them. 
+Ignition Computing is een startup in Eindhoven aan de Keizersgracht. Onze cultuur is gericht op samenwerking, ontplooing en een gezonde werk-privé balans. Bij Ignition Computing geloven we in een informele omgeving waarbij iedereen gelijk is. We delen ons kantoor met Afterservice en delen de lunch en vrijdagmiddagborrel met hen.
 
-Some of the current running projects we have:
+Sommige van onze huidige projecten zijn:
 
-- Preconnet, a tool to benchmark and accelerate physics simulations through optimizing solver configurations, initial guesses and preconditioning.
-- [ITER](https://iter.org), the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures for experimental data ([IMASPy](https://pypi.org/project/imaspy/)) and developing simulation codes.
-- Consulting for various Dutch tech companies such as [Celsian](https://www.celsian.nl/) and [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
-- Consulting for an American fusion start-up.
+- Preconnet,  een tool voor het benchmarken en versnellen van fysicasimulaties door het optimaliseren van solverconfiguraties, initiële gissingen en preconditionering..
+- [ITER](https://iter.org), het grootste kernfusieproject ter wereld, waar we meerdere projecten hebben lopen, zoals het werken aan de onderliggende gegevensstructuren voor experimentele data ([IMASPy](https://pypi.org/project/imaspy/)) het ontwikkelen van simulatie codes.
+- Consulting voor meerdere Nederlandse tech bedrijven zoals [Celsian](https://www.celsian.nl/) en [Plasma Matters](https://plasimo.phys.tue.nl/index.php).
+- Consulting voor een Amerikaanse kernfusie start-up.
 
-### Responsibilities
+### Verantwoordelijkheden
 
-- Work in close cooperation with customers and colleagues to design and build new software;
-- Come up with new and creative ideas;
-- Work out planning of projects and sprints;
-- Build innovative software;
+- Nauw samenwerking met klanten en collega's om nieuwe software te ontwerpen en te bouwen;
+- Nieuwe en creatieve ideeën bedenken;
+- Planning van projecten en sprints uitwerken;
+- Innovatieve software bouwen;
 
-### What we ask of you
+### Wat we van jou verwachten
 
-- Demonstrable knowledge and experience in software development;
-- Familiarity with Git and CI/CD pipelines;
-- Ability to work independently and propose new ideas within a team;
-- Fluent in written and spoken English;
-- Willingness to learn;
-- Familiarity with Python, C++ and Fortran would be a plus;
+- Aantoonbare kennis van en ervaring met softwareontwikkeling;
+- Vertrouwdheid met Git en CI/CD pipelines;
+- In staat zijn om zelfstandig te werken en nieuwe ideeën voor te stellen binnen een team;
+- Vloeiend in geschreven en gesproken Engels;
+- Bereidheid om te leren;
+- Bekendheid met Python, C++ en Fortran is een pré;
 
-### What you get from us 
+### Wat wij jou aanbieden 
 
-- Salary in the range of €2800 to €3500;
-- Free all-you-can-eat lunch;
-- Flexible PTO policy;
-- Option to partially work from home;
-- Lively work place in city centre of Eindhoven;
-- Lots of opportunities to grow;
+- Salaris tussen €2800 en €3500;
+- Gratis all-you-can-eat lunch;
+- Flexibel betaald verlof beleid;
+- Mogelijkheid tot gedeeltelijk thuiswerken;
+- Levendige werkplek in het centrum van Eindhoven;
+- Veel doorgroeimogelijkheden;
 
-To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com> before Monday June 17th.
+Om te solliciteren stuur jouw sollicitatiebrief met CV naar <careers@ignitioncomputing.com> voor maandag 17 juni.
