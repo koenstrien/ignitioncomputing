@@ -26,27 +26,27 @@ Some of the current running projects we have:
 
 ### Responsibilities
 
-- Work in close cooperation with customers and colleagues to design and build new software;
-- Come up with new and creative ideas;
-- Work out planning of projects and sprints;
-- Build innovative software;
+- Work in close cooperation with customers and colleagues to design and build new software
+- Come up with new and creative ideas
+- Work out planning of projects and sprints
+- Build innovative software
 
 ### What we ask of you
 
-- Demonstrable knowledge and experience in software development;
-- Familiarity with Git and CI/CD pipelines;
-- Ability to work independently and propose new ideas within a team;
-- Fluent in written and spoken English;
-- Willingness to learn;
-- Familiarity with Python, C++ and Fortran would be a plus;
+- Demonstrable knowledge and experience in software development
+- Familiarity with Git and CI/CD pipelines
+- Ability to work independently and propose new ideas within a team
+- Fluent in written and spoken English
+- Willingness to learn
+- Familiarity with Python, C++ and Fortran would be a plus
 
-### What you get from us 
+### What you get from us
 
-- Salary in the range of €2800 to €3500;
-- Free all-you-can-eat lunch;
-- Flexible PTO policy;
-- Option to partially work from home;
-- Lively work place in city centre of Eindhoven;
-- Lots of opportunities to grow;
+- Salary in the range of €2800 to €3500
+- Free all-you-can-eat lunch
+- Flexible PTO policy
+- Option to partially work from home
+- Lively work place in city centre of Eindhoven
+- Lots of opportunities to grow
 
 To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com> before Monday June 17th.
