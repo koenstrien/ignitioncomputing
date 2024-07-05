@@ -44,7 +44,7 @@ Some of the current running projects we have:
 
 - Salary in the range of €2800 to €3500
 - Free all-you-can-eat lunch
-- Flexible PTO policy
+- Flexible Payed-Time-Off policy
 - Option to partially work from home
 - Lively work place in city centre of Eindhoven
 - Lots of opportunities to grow
