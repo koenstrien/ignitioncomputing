@@ -17,7 +17,7 @@ We mainly code in Python, C++, and Fortran. Our knowledgeable small team is all 
 
 Ignition Computing is a startup in Eindhoven based on the Keizersgracht. Our culture is focussed on cooperation, growth and a healthy work-life balance. At Ignition Computing we believe in an informal environment where everyone is equal. We share our office with Afterservice, and share lunch and Friday afternoon drinks with them. 
 
-Some of the current running projects we have:
+#### Some of the current running projects we have:
 
 - Preconnet, a tool to benchmark and accelerate physics simulations through optimizing solver configurations, initial guesses and preconditioning.
 - [ITER](https://iter.org), the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures for experimental data ([IMASPy](https://pypi.org/project/imaspy/)) and developing simulation codes.
