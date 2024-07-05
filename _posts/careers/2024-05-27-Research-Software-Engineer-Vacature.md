@@ -1,12 +1,16 @@
 ---
-title: Research Software Engineer Vacature
+title: Research Sofware Ingenieur
 layout: featured
 author: Mike Sanders  
 image: /assets/img/news/research_software_engineer.jpg
 categories: careers
 ---
 
-### Vacature: Research Software Engineer
+Nederlandstalige versie.
+
+Go to [English version](/careers/2024/05/27/Research-Software-Engineer)
+
+### Vacature: Onderzoekssoftware-ingenieur
 
 Bij Ignition computing zijn we gespecialiseerd in high-performance computing en onderzoekssoftware. we werken samen met onze klanten om de wereld een betere en duurzamere plek te maken. Ondere andere door het bouwen van infrastructuur voor kernfusie-onderzoek, het verminderen van rekentijden door simulatie versnelling of door het bouwen van een platform voor de optimalisatie van glastuinbouw.
 
