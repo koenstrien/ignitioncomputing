@@ -1,7 +1,7 @@
 ---
 title: Research Sofware Ingenieur
 layout: featured
-author: Mike Sanders  
+author: Yonis le Grand  
 image: /assets/img/news/research_software_engineer.jpg
 categories: careers
 ---
@@ -20,7 +20,7 @@ We programmeren voornamelijk in Python, C++ en Fortran. In ons kleine team met v
 
 Ignition Computing is een startup in Eindhoven aan de Keizersgracht. Onze cultuur is gericht op samenwerking, ontplooing en een gezonde werk-privé balans. Bij Ignition Computing geloven we in een informele omgeving waarbij iedereen gelijk is. We delen ons kantoor met Afterservice en delen de lunch en vrijdagmiddagborrel met hen.
 
-Sommige van onze huidige projecten zijn:
+#### Sommige van onze huidige projecten zijn:
 
 - Preconnet,  een tool voor het benchmarken en versnellen van fysicasimulaties door het optimaliseren van solverconfiguraties, initiële gissingen en preconditionering..
 - [ITER](https://iter.org), het grootste kernfusieproject ter wereld, waar we meerdere projecten hebben lopen, zoals het werken aan de onderliggende gegevensstructuren voor experimentele data ([IMASPy](https://pypi.org/project/imaspy/)) het ontwikkelen van simulatie codes.
@@ -29,27 +29,27 @@ Sommige van onze huidige projecten zijn:
 
 ### Verantwoordelijkheden
 
-- Nauw samenwerking met klanten en collega's om nieuwe software te ontwerpen en te bouwen;
-- Nieuwe en creatieve ideeën bedenken;
-- Planning van projecten en sprints uitwerken;
-- Innovatieve software bouwen;
+- Nauw samenwerking met klanten en collega's om nieuwe software te ontwerpen en te bouwen
+- Nieuwe en creatieve ideeën bedenken
+- Planning van projecten en sprints uitwerken
+- Innovatieve software bouwen
 
 ### Wat we van jou verwachten
 
-- Aantoonbare kennis van en ervaring met softwareontwikkeling;
-- Vertrouwdheid met Git en CI/CD pipelines;
-- In staat zijn om zelfstandig te werken en nieuwe ideeën voor te stellen binnen een team;
-- Vloeiend in geschreven en gesproken Engels;
-- Bereidheid om te leren;
-- Bekendheid met Python, C++ en Fortran is een pré;
+- Aantoonbare kennis van en ervaring met softwareontwikkeling
+- Vertrouwdheid met Git en CI/CD pipelines
+- In staat zijn om zelfstandig te werken en nieuwe ideeën voor te stellen binnen een team
+- Vloeiend in geschreven en gesproken Engels
+- Bereidheid om te leren
+- Bekendheid met Python, C++ en Fortran is een pré
 
-### Wat wij jou aanbieden 
+### Wat wij jou aanbieden
 
-- Salaris tussen €2800 en €3500;
-- Gratis all-you-can-eat lunch;
-- Flexibel betaald verlof beleid;
-- Mogelijkheid tot gedeeltelijk thuiswerken;
-- Levendige werkplek in het centrum van Eindhoven;
-- Veel doorgroeimogelijkheden;
+- Salaris tussen €2800 en €3500
+- Gratis all-you-can-eat lunch
+- Flexibel betaald verlof beleid
+- Mogelijkheid tot gedeeltelijk thuiswerken
+- Levendige werkplek in het centrum van Eindhoven
+- Veel doorgroeimogelijkheden
 
 Om te solliciteren stuur jouw sollicitatiebrief met CV naar <careers@ignitioncomputing.com> voor maandag 17 juni.
