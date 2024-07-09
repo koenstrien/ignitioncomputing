@@ -44,7 +44,7 @@ Ignition Computing is a startup in Eindhoven based on the Keizersgracht. Our cul
 
 - Salary in the range of €2800 to €3500
 - Free all-you-can-eat lunch
-- Flexible Payed-Time-Off policy
+- Flexible Paid-Time-Off policy
 - Option to partially work from home
 - Lively work place in city centre of Eindhoven
 - Lots of opportunities to grow
