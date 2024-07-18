@@ -1,11 +1,11 @@
 ---
-title: Interview with Computing Weekly
+title: ITER public-private partnership workshop
 layout: featured
 author: Yonis le Grand
 image: /assets/img/news/Fusion_for_all.jpg
 categories: news
 ---
-**ITER public-private workshop and the essential role of computer technology in a growing fusion industry**
+**The essential role of computer technology in a growing fusion industry**
 
 The global fusion landscape is undergoing a profound change. The ambition of harnessing "the energy of the Sun and stars" was traditionally pursued through public projects which were government or university-funded, culminating in megaprojects such as ITER. In recent years, new and daring [private initiatives have managed to gather substantial private investment](https://www.nature.com/immersive/d41586-021-03401-w/index.html), to seek new approaches to realizing the fusion dream. In order to encourage synergy between public and private initiatives, the [ITER organization hosted a three-day workshop](https://www.iter.org/newsline/-/4042).
 
