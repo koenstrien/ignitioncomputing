@@ -1,6 +1,6 @@
 ---
 layout: featured
-title: Research Software
+title: Fusion Research Software
 image: /assets/img/service/pexels-thisisengineering-3862632-min.jpg
 icon: /assets/img/icons/bulb-outline.svg
 description: We have extensive experience writing simulation codes, data infrastructure, and analysis tools.
@@ -11,8 +11,10 @@ description: We have extensive experience writing simulation codes, data infrast
         <div class="service-details mb-40">
             <h3>We build software for the future of science</h3>
             <p>Our team members have advanced degrees, PhD and/or MSc, in the fields of (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.</p>
-            <p>We have extensive experience with Computational Fluid Dynamics and Magnetohydrodynamics, using non-linear MHD codes like <a href="https://www.jorek.eu/">JOREK</a>. We are contributing to <a href="{% link _posts/news/2022-09-27-ITER-Framework-Service-Contract.md %}">modelling</a> and <a href ="{% link _posts/news/2022-08-31-ITER-Persistent-Actor-Framework.md %}">simulation</a> projects for for <a href="https://www.iter.org/">ITER</a>. Besides our fusion focus, we have worked on tools for other physics applications such as glass making and <a href="{% link _posts/news/2023-04-24-Projoules-Horticulture-Modeling-Tool.md %}"> physiscs-based model applications</a> for crop-farming.</p>
-            <p>We are available to help you improve your research and scientific software.</p>
+            <p>We have extensive experience with Computational Fluid Dynamics and Magnetohydrodynamics, using non-linear MHD codes like <a href="https://www.jorek.eu/">JOREK</a>. 
+            We are contributing to <a href="{% link _posts/news/2022-09-27-ITER-Framework-Service-Contract.md %}">modelling</a> and <a href ="{% link _posts/news/2022-08-31-ITER-Persistent-Actor-Framework.md %}">simulation</a> projects for for <a href="https://www.iter.org/">ITER</a>.</p>
+            <p>Fusion research software retains a crucial role in the world of private fusion initiatives. We are working on a <a href="https://flash.rochester.edu/site/flashcode.html">FLASH code</a> for a fusion start-up that is currently in stealth.</p>
+            <p>We are available to help you improve your scientific and engineering software.</p>
         </div>
     </div>
 </div>
