@@ -1,7 +1,7 @@
 title: "Ignition Computing - High-Tech Software Consulting"
 email: "info@ignitioncomputing.com"
 description: >- # this means to ignore newlines until "coc:"
- Ignition Computing helps you build unique software
+ Ignition Computing is a specialized consulting firm for high-performance computing and high-tech research software for nuclear fusion research and multiphysics applications.
 coc: 81011504
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ignitioncomputing.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
@@ -28,8 +28,8 @@ cover_image: "/assets/img/slider/slider1.jpg"
 phone: +31 6 5202 8891
 mailing_address: Keizersgracht 16D, 5611GD Eindhoven, NL
 visiting_address: Keizersgracht 16D, 5611GD Eindhoven, NL
-lat: 51.43877
-lon: 5.472555
+lat: 51.43693
+lon: 5.477164
 zoom: 5
 
 

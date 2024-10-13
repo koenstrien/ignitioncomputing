@@ -4,6 +4,7 @@ layout: featured
 author: Mike Sanders  
 image: /assets/img/news/research_software_engineer.jpg
 categories: careers
+description: Job Opening for nuclear fusion and computational physics Research Software Engineer in Eindhoven
 ---
 
 ### About the job
@@ -16,7 +17,7 @@ We mainly code in Python, C++, and Fortran. Our knowledgeable small team is all 
 
 Ignition Computing is a startup in Eindhoven based on the Keizersgracht. Our culture is focussed on cooperation, growth and a healthy work-life balance. At Ignition Computing we believe in an informal environment where everyone is equal. We share our office with Afterservice, and share lunch and Friday afternoon drinks with them. 
 
-Some of the current running projects we have:
+#### Some of the current running projects we have:
 
 - Preconnet, a tool to benchmark and accelerate physics simulations through optimizing solver configurations, initial guesses and preconditioning.
 - [ITER](https://iter.org), the world's biggest nuclear fusion project where we have multiple running projects such as working on the underlying data structures for experimental data ([IMASPy](https://pypi.org/project/imaspy/)) and developing simulation codes.
@@ -25,27 +26,27 @@ Some of the current running projects we have:
 
 ### Responsibilities
 
-- Work in close cooperation with customers and colleagues to design and build new software;
-- Come up with new and creative ideas;
-- Work out planning of projects and sprints;
-- Build innovative software;
+- Work in close cooperation with customers and colleagues to design and build new software
+- Come up with new and creative ideas
+- Work out planning of projects and sprints
+- Build innovative software
 
 ### What we ask of you
 
-- Demonstrable knowledge and experience in software development;
-- Familiarity with Git and CI/CD pipelines;
-- Ability to work independently and propose new ideas within a team;
-- Fluent in written and spoken English;
-- Willingness to learn;
-- Familiarity with Python, C++ and Fortran would be a plus;
+- Demonstrable knowledge and experience in software development
+- Familiarity with Git and CI/CD pipelines
+- Ability to work independently and propose new ideas within a team
+- Fluent in written and spoken English
+- Willingness to learn
+- Familiarity with Python, C++ and Fortran would be a plus
 
-### What you get from us 
+### What you get from us
 
-- Salary in the range of €2800 to €3500;
-- Free all-you-can-eat lunch;
-- Flexible PTO policy;
-- Option to partially work from home;
-- Lively work place in city centre of Eindhoven;
-- Lots of opportunities to grow;
+- Salary in the range of €2800 to €3500
+- Free all-you-can-eat lunch
+- Flexible Paid-Time-Off policy
+- Option to partially work from home
+- Lively work place in city centre of Eindhoven
+- Lots of opportunities to grow
 
 To apply, send your job application, which includes CV and cover letter, to <careers@ignitioncomputing.com> before Monday June 17th.
