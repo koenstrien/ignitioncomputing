@@ -11,7 +11,7 @@ description: Our ML surrogate and reduced order models are proven in plasma phys
         <div class="service-details mb-40">
             <h3>From machine-learned preconditioners to control-oriented models</h3>
             <p>
-                A good understanding of your problem is essential when applying machine learning tools. Various types of problems result in linear systems with their own kind of structure, which can be exploited by the right machine learning tool. We know this, because our team has developed curring-edge tools such as
+                A good understanding of your problem is essential when applying machine learning tools. Various types of problems result in linear systems with their own kind of structure, which can be exploited by the right machine learning tool. We know this, because our team has developed cutting-edge tools such as:
 
 
                 <ul>
