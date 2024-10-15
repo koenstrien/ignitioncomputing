@@ -11,7 +11,7 @@ description: We have extensive optimalisation and parallelisation experience in 
         <div class="service-details mb-40">
             <h3>Software performance</h3>
             <p>
-            In many areas of research today—whether it’s Magneto Hydrodynamics, Quantum Mechanics, or Fluid Dynamics—software is at the heart of how we analyze data and develop new insights. The performance of this software matters more than you might think. It not only cuts down on the waiting time for simulations to complete, but it also unlocks new avenues of research that were once limited by computational constraints, allowing for finer grids, smaller timesteps and more accurate physics. It’s not just about saving time, but also about enabling better science.
+            In many areas of research today — whether it’s Magnetohydrodynamics, Quantum Mechanics, or Fluid Dynamics — software is at the heart of how we analyze data and develop new insights. The performance of this software matters more than you might think. It not only cuts down on the waiting time for simulations to complete, but it also unlocks new avenues of research that were once limited by computational constraints, allowing for finer grids, smaller timesteps and more accurate physics. It’s not just about saving time, but also about enabling better science.
             </p>
             <h2>How can we help you?</h2>
             <ol>
