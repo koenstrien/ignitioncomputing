@@ -11,14 +11,15 @@ description: Our ML surrogate and reduced order models are proven in plasma phys
         <div class="service-details mb-40">
             <h3>From machine-learned preconditioners to control-oriented models</h3>
             <p>
-                A good understanding of your problem is essential when applying machine learning tools.
-                Our team has developed cutting-edge tools for physics problems, such as
+                A good understanding of your problem is essential when applying machine learning tools. Various types of problems result in linear systems with their own kind of structure, which can be exploited by the right machine learning tool. We know this, because our team has developed cutting-edge tools such as:
+
 
                 <ul>
-                  <li>Data-driven preconditioners (PreconNet), applied to plasma simulations but applicable in a wider context</li>
-                  <li>Surrogate models for tokamak turbulence (QLKNN)</li>
-                  <li>Machine-learned solver selection for Finite Element (FEM) codes.</li>
-                  <li>Surrogate models for solution prediction in Finite Element codes.</li>
+                  <li>Data-driven (and relatively cheap) preconditioners (PreconNet), applied to plasma simulations but applicable to any problem that gives rise to a linear system of equations.</li>
+                  <li>Surrogate models for tokamak turbulunce (QLKNN).</li>
+                  <li>Machine-learned solver selection for Finite Element (FEM) codes, capable of selecting between various solvers during time stepping to decrease total solve time.</li>
+                  <li>Surrogate models for solution prediction in Finite Element codes, providing initial guesses to an iterative solver to decrease the required solve time.</li>
+                  <li>Parameter optimization for a specific solver and problem, reducing overall solve time.</li>
                 </ul>
             </p>
         </div>
