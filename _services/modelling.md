@@ -36,8 +36,7 @@ description: We deliver integrated multiphysics modelling applications
         <div class="service-details mb-40">
             <h3>Digital twins</h3>
             <p>
-            Building a predict-capable, understandable digital twin requires physics models, and may be aided by machine-learning methods but should not build solely upon them.
-            Complementing simulators with ML surrogates is a way to profit from potential performance increases while remaining certain of results.
+            Developing an easy to interpret digital twin with predictive power, requires robust physics-based models. While machine learning methods can aid this process, they should not serve as the sole foundation. Enhancing simulators with ML surrogates allows us to leverage potential performance gains while ensuring the reliability and accuracy of results.
             </p>
         </div>
     </div>
