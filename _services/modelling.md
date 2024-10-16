@@ -11,9 +11,9 @@ description: We deliver integrated multiphysics modelling applications
     <div class="col-md-12">
         <div class="service-details mb-40">
             <h3>Complex systems, complex data</h3>
-            <p> Nuclear fusion is a wide field, with many physics phenomena, many different experiments, calculations and simulations done by a diverse set of research groups. Data is generated over many geometries and physical parameters. As such, structured frameworks and interfaces are needed to ensure interoperability between different teams and data structures.</p>
+            <p> Nuclear fusion is a vast field, with numerous physics phenomena, diverse experimental setups, complex calculations, and simulations conducted by various research teams.  Given that data is generated over a variety of geometries and physical parameters, structured frameworks and interfaces are necessary to ensure seamless interoperability between teams and their respective data structures.</p>
             <p>ITER is developing a standard for fusion data, the Integrated Modelling and Analysis Suite (IMAS).
-            We have developed a <a href="_posts/news/2021-03-21-ITER-IMAS-Python.md">pythonic, flexible interface</a> to data stored with the IMAS Access Layer, and are working on enabling access with the modern data processing ecosystem, using tooling such as xarray, netCDF, intake et cetera.
+            We have developed a <a href="/news/2021/03/21/ITER-IMAS-Python">pythonic, flexible interface</a> for data stored with the IMAS Access Layer. We are now working on enabling access with the modern data processing ecosystem, using tooling such as xarray, netCDF and intake.
             </p>
         </div>
     </div>
@@ -26,7 +26,7 @@ description: We deliver integrated multiphysics modelling applications
             We have developed a <a href="/news/2022/08/31/ITER-Persistent-Actor-Framework">new IMAS integrated modelling simulation framework</a> built on <a href="https://muscle3.readthedocs.io/en/latest/">MUSCLE3</a>, which is currently used in JINTRAC and in the European Transport Simulator (ETS-PAF).
             </p>
             <p>
-            This framework is the base of the new ITER Pulse Design Simulator Tool that we are developing, in consortium with CEA and Université Côte d'Azur, which will combine magnetic equilibrium evolution simulation with core transport modelling, and integrate it with the ITER plasma control systems through synthetic diagnostics.
+            This framework is the foundation of the ITER Pulse Design Simulator Tool, which we are developing in consortium with CEA and Université Côte d'Azur. This new simulation tool will combine magnetic equilibrium evolution simulation with core transport modelling, and integrate it with the ITER plasma control systems through synthetic diagnostics.
             </p>
         </div>
     </div>
