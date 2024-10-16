@@ -1,6 +1,6 @@
 <nav id="mobile-menu">
-<ul>
-    
+<ul class="mb-0">
+
     {% for link in site.data.navigation %}
     {% assign active = nil %}
 
@@ -13,7 +13,7 @@
     {% if page.url contains link.url %}
         {% assign active = 'active' %}
     {% endif %}
-     
+
      <li>
          <a href="{{link.url}}">{{link.text}}{% if link.submenu %}<i class="icofont-simple-down"></i>{% endif %}</a>
         {% if link.submenu %}

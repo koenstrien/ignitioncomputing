@@ -1,27 +1,27 @@
 ---
 layout: featured
-title: Research Software
-image: /assets/img/service/4.jpg
+title: Fusion Research Software
+image: /assets/img/service/pexels-thisisengineering-3862632-min.jpg
 icon: /assets/img/icons/bulb-outline.svg
-description: We have extensive experience writing simulation codes and infra, and analysis tools.
+description: We have extensive experience writing simulation codes, data infrastructure, and analysis tools.
 ---
 
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <h3>Research software is our specialty</h3>
-            <p>Our team members have advanced degrees, PhD and/or MSc, in the fields of (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.
-	    </p>
-	    <p>
-	    We are available to help you improve your research and scientific software.
-	    </p>
+            <h3>We build software for the future of science</h3>
+            <p>Our team members have advanced degrees, PhD and/or MSc, in the fields of (computational) physics and mathematics. We have developed state-of-the-art physics simulation and analysis tools and know the ins and outs of scientific software, data processing and analysis.</p>
+            <p>We have extensive experience with Computational Fluid Dynamics and Magnetohydrodynamics, using non-linear MHD codes like <a href="https://www.jorek.eu/">JOREK</a>. 
+            We are contributing to <a href="{% link _posts/news/2022-09-27-ITER-Framework-Service-Contract.md %}">modelling</a> and <a href ="{% link _posts/news/2022-08-31-ITER-Persistent-Actor-Framework.md %}">simulation</a> projects for for <a href="https://www.iter.org/">ITER</a>.</p>
+            <p>Fusion research software retains a crucial role in the world of private fusion initiatives. We are working on a <a href="https://flash.rochester.edu/site/flashcode.html">FLASH code</a> for a fusion start-up that is currently in stealth.</p>
+            <p>We are available to help you improve your scientific and engineering software.</p>
         </div>
     </div>
 </div>
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/details/01.jpg" alt="tincidunt">
+            <img src="{{site.baseurl}}/assets/img/service/pexels-thisisengineering-3912976-min.jpg" alt="tincidunt">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">
