@@ -17,7 +17,7 @@ description: Good visualisation is a super-power. It is essential for discovery 
 <div class="row">
     <div class="col-xl-6 col-lg-12">
         <div class="s-details-img mb-30">
-            <img src="{{site.baseurl}}/assets/img/service/toroidal_field.png" alt="{{page.title}}">
+            <img src="{{site.baseurl}}/assets/img/service/toroidal_field.jpg" alt="{{page.title}}">
         </div>
     </div>
     <div class="col-xl-6 col-lg-12">
